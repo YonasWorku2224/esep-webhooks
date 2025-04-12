@@ -16,3 +16,4 @@ C:\Users\Yonas\Documents\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Debug
 C:\Users\Yonas\Documents\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.pdb
 C:\Users\Yonas\Documents\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.genruntimeconfig.cache
 C:\Users\Yonas\Documents\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\ref\EsepWebhook.dll
+C:\Users\Yonas\Documents\esep-webhooks\src\EsepWebhook\src\EsepWebhook\obj\Debug\net8.0\EsepWebhook.sourcelink.json
