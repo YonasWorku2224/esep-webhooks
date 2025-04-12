@@ -1,0 +1,45 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EsepWebhook", "EsepWebhook", "{0CDB503E-B79E-6EA6-6D8C-C91C5DD36ED3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6A463389-8082-2E0C-6AD2-7033A08752A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsepWebhook", "src\EsepWebhook\src\EsepWebhook\EsepWebhook.csproj", "{6D73FB4E-D430-59FF-D927-F36F04E571CC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{BD3CD3FB-2997-D240-56A6-5F55F36988A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EsepWebhook.Tests", "src\EsepWebhook\test\EsepWebhook.Tests\EsepWebhook.Tests.csproj", "{2C4BE952-7EE6-FB00-E47E-2F2E1508F679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D73FB4E-D430-59FF-D927-F36F04E571CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D73FB4E-D430-59FF-D927-F36F04E571CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D73FB4E-D430-59FF-D927-F36F04E571CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D73FB4E-D430-59FF-D927-F36F04E571CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4BE952-7EE6-FB00-E47E-2F2E1508F679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4BE952-7EE6-FB00-E47E-2F2E1508F679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4BE952-7EE6-FB00-E47E-2F2E1508F679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4BE952-7EE6-FB00-E47E-2F2E1508F679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0CDB503E-B79E-6EA6-6D8C-C91C5DD36ED3} = {827E0CD3-B72D-47B6-A68D-7590B98EB39B}
+		{6A463389-8082-2E0C-6AD2-7033A08752A7} = {0CDB503E-B79E-6EA6-6D8C-C91C5DD36ED3}
+		{6D73FB4E-D430-59FF-D927-F36F04E571CC} = {6A463389-8082-2E0C-6AD2-7033A08752A7}
+		{BD3CD3FB-2997-D240-56A6-5F55F36988A1} = {0CDB503E-B79E-6EA6-6D8C-C91C5DD36ED3}
+		{2C4BE952-7EE6-FB00-E47E-2F2E1508F679} = {BD3CD3FB-2997-D240-56A6-5F55F36988A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14DF5B57-1D76-461F-95D6-C9FC52277D6D}
+	EndGlobalSection
+EndGlobal
