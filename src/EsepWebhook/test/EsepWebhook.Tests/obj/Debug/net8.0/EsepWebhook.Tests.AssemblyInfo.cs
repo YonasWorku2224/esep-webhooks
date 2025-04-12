@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EsepWebhook.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dc831f7faa5e3e2451acb38b6df1aa5860e5fb2")]
 [assembly: System.Reflection.AssemblyProductAttribute("EsepWebhook.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EsepWebhook.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
